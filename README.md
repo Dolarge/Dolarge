@@ -1,7 +1,8 @@
 ### Hi there :hand:
 
  
-  > c#, c++,c,, java, github, gitlab  
+  > c#, c++,c,, java, python
+  > github, gitlab  
   > WPF(MVVM),Winform, QT,MFC  
   > Devexpress, mssql, mysql, oracle  
 
